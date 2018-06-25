@@ -38,10 +38,10 @@ end.
 # 出典
 https://ja.wikipedia.org/wiki/Fizz_Buzz
 
-# Ruby実行例
+# Rubyサンプル実行例
 
 ```
-ruby ruby/nicenature.rb
+ruby ruby/sample.rb
 ```
 
 ```
